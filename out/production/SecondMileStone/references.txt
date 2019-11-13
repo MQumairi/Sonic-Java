@@ -1,0 +1,28 @@
+Images:
+
+//SONIC
+"data/Sonic/sonicJump.gif" constructed from a spritesheet, which was retrieved from: https://www.spriters-resource.com/pc_computer/sonicmania/sheet/95304/
+"data/Sonic/sonicStand.gif" retrieved from: https://www.deviantart.com/eggy42/art/Sonic-Mania-Standing-Sonic-Sprite-Animation-624489627
+"data/Sonic/sonicWalkLeft.gif" retrieved from: https://gamebanana.com/sprays/74761
+
+//BADNICKS (Enemies)
+"data/Badnicks/crabMeat.gif" retrieved from: https://lesbianchemicalplanthome.files.wordpress.com/2018/11/tumblr_ooaq89b52r1w1kerio4_540.gif
+"data/Badnicks/batnikLeft.gif" retrieved from: https://66.media.tumblr.com/8769c79cee5f2a75a519cc70302e29b1/tumblr_oztb6agzkQ1w1kerio1_500.gif
+"data/Badnicks/penguinLeft.gif" retrieved from: https://www.spriters-resource.com/genesis_32x_scd/sonicth3/sheet/42878/
+
+//LEVEL OBJECTS
+"data/LevelObjects/ring.gif" retrieved from: https://steamuserimages-a.akamaihd.net/ugc/858354616142808703/AB7BC1BB4E4951124F9D23304887241651CACCF7/
+"data/LevelObjects/SpikesHD.png" retrieved from: https://sonic.fandom.com/wiki/Spikes_(obstacle)
+"data/LevelObjects/Spring.png" retrieved from: https://www.deviantart.com/shiftsike/art/Emerald-Hill-Advanced-669254073
+
+//LEVELS
+Images found in "data/GreenHill" retrieved from: https://www.deviantart.com/shiftsike/art/Emerald-Hill-Advanced-669254073
+Images found in "data/IceCap" retrieved from: https://www.spriters-resource.com/genesis_32x_scd/sonicth3/sheet/9939/
+Images found in "data/LaunchBase" retrieved from: https://www.spriters-resource.com/pc_computer/sonicmania/sheet/95652/
+Images found in "data/MetalMadnesss" retrieved from: https://www.spriters-resource.com/genesis_32x_scd/sonicthehedgehogcdsegacd/sheet/33297/
+
+Sonic the Hedgehog is the property of SEGA.
+SEGA permits third-parties to use their material for non-commercial purposes. See:
+[1] https://www.destructoid.com/sega-gives-sonic-fans-the-okay-to-make-games-386389.phtml
+[2] Offical statement found here: https://www.youtube.com/watch?v=Lt5i4XEqKrI
+ 
